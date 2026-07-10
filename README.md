@@ -24,12 +24,20 @@ An e-commerce company wants to understand how customers interact with its websit
 
 # Query #
 **Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)**
+<img width="1306" height="324" alt="image" src="https://github.com/user-attachments/assets/b90336bd-50c5-4a44-a2c5-8616be6808ca" />
+<img width="962" height="170" alt="image" src="https://github.com/user-attachments/assets/fea2d473-638e-404c-bf1c-2f41e1086306" />
 
 **Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**
+<img width="1088" height="230" alt="image" src="https://github.com/user-attachments/assets/a5c9e345-23d3-4dd0-a846-3a113432ace2" />
+<img width="948" height="448" alt="image" src="https://github.com/user-attachments/assets/ef8355c3-11bf-4225-ad20-183bd403af3e" />
 
 **Query 03: Revenue by traffic source by week, by month in June 2017**
+<img width="960" height="650" alt="image" src="https://github.com/user-attachments/assets/b1e274e0-3b8b-4aa6-88d6-0a82fd85ca93" />
+<img width="1082" height="646" alt="image" src="https://github.com/user-attachments/assets/ed7957ab-6b22-4e38-adf1-bc4aa219ca10" />
 
 **Query 04: Conversion rate by traffic source in 2017. (order by conversion_rate desc)**
+<img width="1036" height="250" alt="image" src="https://github.com/user-attachments/assets/91283dae-549e-4e5e-b420-a6db037a8d65" />
+<img width="916" height="276" alt="image" src="https://github.com/user-attachments/assets/e3a900bb-286b-4cef-9d0f-80821ca5c2f1" />
 
 **Query 05: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.**
 
